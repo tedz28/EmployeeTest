@@ -1,0 +1,27 @@
+{
+  "name": "employeehub",
+  "description": "a Mean stack app",
+  "main": "index.js",
+  "authors": [
+    "Ziteng Zhang"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.2",
+    "angular-resource": "^1.5.2",
+    "angular-route": "^1.5.2"
+  }
+}
